@@ -5,6 +5,7 @@ In this project, an in-depth analysis of Netflix's content was conducted using T
 The objective of this project was to analyze Netflix's content library using Tableau visualizations. The aim was to highlight the distribution of content production across countries, identify the most popular genres, explore the rating breakdown, track the growth of the content library over the years, and understand the distribution between movies and TV shows. Through the utilization of Tableau's interactive features, it provided an engaging platform for viewers to explore the data on their own terms.
 
 **Key Concepts and Insights:**
+
 **1. Global Cinema and Television Production: Country-wise Analysis**
    - Utilized a world map to depict the distribution of Netflix content production across different countries.
    - Highlighted the concept of geospatial data visualization.
