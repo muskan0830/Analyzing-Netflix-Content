@@ -31,6 +31,6 @@ The objective of this project was to analyze Netflix's content library using Tab
    - Demonstrated the use of circle charts for data representation.
    - Discovered that 68.42% of Netflix content consists of movies, while 31.58% comprises TV shows.
 
-**Interactive Filters:**
+**6. Interactive Filters:**
    - Incorporated filters for content type (TV shows or movies), title, duration, release year, and description.
    - Enhanced the user experience by allowing data exploration based on various criteria
